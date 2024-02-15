@@ -1,0 +1,7 @@
+1.9621810913085938
+smoke,bronc
+tub,either
+smoke,either
+either,lung
+tub,lung
+bronc,dysp

@@ -1,0 +1,4 @@
+0.6335189342498779
+Cancer,Smoker
+Dyspnoea,Cancer
+Cancer,Xray

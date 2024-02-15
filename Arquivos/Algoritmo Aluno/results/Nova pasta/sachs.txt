@@ -1,0 +1,15 @@
+7.886605262756348
+PKA,Erk
+Mek,Erk
+P38,PKA
+PIP3,PIP2
+PIP2,Plcg
+PIP3,Plcg
+PKA,PKC
+P38,PKC
+PKA,Jnk
+PKC,Jnk
+Erk,Akt
+PKA,Akt
+Mek,Raf
+PKA,Raf

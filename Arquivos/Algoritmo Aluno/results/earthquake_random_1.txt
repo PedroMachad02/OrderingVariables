@@ -1,0 +1,5 @@
+0.1228485107421875
+Earthquake,Alarm
+Alarm,Burglary
+Alarm,MaryCalls
+Alarm,JohnCalls

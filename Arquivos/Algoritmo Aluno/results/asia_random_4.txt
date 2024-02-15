@@ -1,0 +1,11 @@
+0.5128142833709717
+xray,lung
+xray,tub
+lung,tub
+lung,bronc
+bronc,dysp
+lung,dysp
+bronc,smoke
+lung,smoke
+lung,either
+tub,either

@@ -1,0 +1,7 @@
+2.0430214405059814
+either,lung
+tub,lung
+tub,either
+smoke,either
+either,xray
+smoke,bronc

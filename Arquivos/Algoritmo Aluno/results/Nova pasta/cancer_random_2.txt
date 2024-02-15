@@ -1,0 +1,3 @@
+0.10696649551391602
+Xray,Cancer
+Cancer,Pollution

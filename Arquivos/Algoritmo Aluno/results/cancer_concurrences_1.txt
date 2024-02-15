@@ -1,0 +1,5 @@
+0.3573887348175049
+Pollution,Cancer
+Cancer,Xray
+Cancer,Smoker
+Cancer,Dyspnoea

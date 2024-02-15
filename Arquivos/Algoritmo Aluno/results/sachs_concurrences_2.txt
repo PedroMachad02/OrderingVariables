@@ -1,0 +1,15 @@
+5.846530914306641
+Erk,Akt
+Erk,PKA
+PKC,PKA
+PKC,Jnk
+PKC,Raf
+PKC,Mek
+Akt,Mek
+Mek,Raf
+Mek,PKA
+PIP3,Plcg
+PIP3,PIP2
+Jnk,PKA
+P38,PKA
+PIP2,Plcg

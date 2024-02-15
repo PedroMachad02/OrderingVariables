@@ -1,0 +1,8 @@
+2.0007920265197754
+bronc,dysp
+smoke,bronc
+tub,either
+smoke,either
+either,lung
+tub,lung
+either,xray

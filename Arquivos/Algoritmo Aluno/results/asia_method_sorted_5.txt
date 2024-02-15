@@ -1,0 +1,6 @@
+2.0532689094543457
+tub,either
+smoke,either
+either,xray
+bronc,dysp
+smoke,bronc

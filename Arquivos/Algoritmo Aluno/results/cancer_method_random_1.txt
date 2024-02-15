@@ -1,0 +1,4 @@
+1.0411815643310547
+Xray,Cancer
+Smoker,Cancer
+Pollution,Cancer

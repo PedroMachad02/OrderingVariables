@@ -1,1 +1,12 @@
-<BayesianNetwork><NODE NAME="contact-lenses" /><NODE NAME="astigmatism"><ARC FROM="contact-lenses" TO="astigmatism" /></NODE><NODE NAME="tear-prod-rate"><ARC FROM="contact-lenses" TO="tear-prod-rate" /></NODE><NODE NAME="age" /><NODE NAME="spectacle-prescrip" /></BayesianNetwork>
+<?xml version="1.0" ?>
+<BayesianNetwork>
+  <NODE NAME="contact-lenses"/>
+  <NODE NAME="tear-prod-rate">
+    <ARC FROM="contact-lenses" TO="tear-prod-rate"/>
+  </NODE>
+  <NODE NAME="age"/>
+  <NODE NAME="spectacle-prescrip"/>
+  <NODE NAME="astigmatism">
+    <ARC FROM="contact-lenses" TO="astigmatism"/>
+  </NODE>
+</BayesianNetwork>

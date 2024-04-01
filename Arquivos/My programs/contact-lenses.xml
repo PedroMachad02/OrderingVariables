@@ -6,17 +6,20 @@
       <NAME>astigmatism</NAME>
       <OUTCOME>no</OUTCOME>
       <OUTCOME>yes</OUTCOME>
+      <PROPERTY />
     </VARIABLE>
     <VARIABLE TYPE="nature">
       <NAME>contact-lenses</NAME>
       <OUTCOME>hard</OUTCOME>
       <OUTCOME>none</OUTCOME>
       <OUTCOME>soft</OUTCOME>
+      <PROPERTY />
     </VARIABLE>
     <VARIABLE TYPE="nature">
       <NAME>tear-prod-rate</NAME>
       <OUTCOME>normal</OUTCOME>
       <OUTCOME>reduced</OUTCOME>
+      <PROPERTY />
     </VARIABLE>
     <DEFINITION>
       <FOR>astigmatism</FOR>

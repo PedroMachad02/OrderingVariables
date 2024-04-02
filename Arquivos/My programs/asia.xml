@@ -3,39 +3,57 @@
   <NETWORK>
     <NAME>UNTITLED</NAME>
     <VARIABLE TYPE="nature">
+      <NAME>asia</NAME>
+      <OUTCOME>no</OUTCOME>
+      <OUTCOME>yes</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
       <NAME>bronc</NAME>
       <OUTCOME>no</OUTCOME>
       <OUTCOME>yes</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
     </VARIABLE>
     <VARIABLE TYPE="nature">
       <NAME>dysp</NAME>
       <OUTCOME>no</OUTCOME>
       <OUTCOME>yes</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
     </VARIABLE>
     <VARIABLE TYPE="nature">
       <NAME>either</NAME>
       <OUTCOME>no</OUTCOME>
       <OUTCOME>yes</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
     <VARIABLE TYPE="nature">
       <NAME>lung</NAME>
       <OUTCOME>no</OUTCOME>
       <OUTCOME>yes</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
     </VARIABLE>
     <VARIABLE TYPE="nature">
       <NAME>smoke</NAME>
       <OUTCOME>no</OUTCOME>
       <OUTCOME>yes</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
     </VARIABLE>
     <VARIABLE TYPE="nature">
       <NAME>tub</NAME>
       <OUTCOME>no</OUTCOME>
       <OUTCOME>yes</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
     </VARIABLE>
     <VARIABLE TYPE="nature">
       <NAME>xray</NAME>
       <OUTCOME>no</OUTCOME>
       <OUTCOME>yes</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
     </VARIABLE>
+    <DEFINITION>
+      <FOR>asia</FOR>
+      <TABLE>0.9905547226386806 0.009445277361319341 </TABLE>
+    </DEFINITION>
     <DEFINITION>
       <FOR>bronc</FOR>
       <GIVEN>smoke</GIVEN>

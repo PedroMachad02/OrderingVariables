@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<BIF VERSION="0.3">
+  <NETWORK>
+    <NAME>UNTITLED</NAME>
+    <VARIABLE TYPE="nature">
+      <NAME>age</NAME>
+      <OUTCOME>pre_presbyopic</OUTCOME>
+      <OUTCOME>presbyopic</OUTCOME>
+      <OUTCOME>young</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>astigmatism</NAME>
+      <OUTCOME>no</OUTCOME>
+      <OUTCOME>yes</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>contact-lenses</NAME>
+      <OUTCOME>hard</OUTCOME>
+      <OUTCOME>none</OUTCOME>
+      <OUTCOME>soft</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>spectacle-prescrip</NAME>
+      <OUTCOME>hypermetrope</OUTCOME>
+      <OUTCOME>myope</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>tear-prod-rate</NAME>
+      <OUTCOME>normal</OUTCOME>
+      <OUTCOME>reduced</OUTCOME>
+      <PROPERTY>weight = None</PROPERTY>
+    </VARIABLE>
+    <DEFINITION>
+      <FOR>age</FOR>
+      <TABLE>0.3333333333333333 0.3333333333333333 0.3333333333333333 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>astigmatism</FOR>
+      <GIVEN>contact-lenses</GIVEN>
+      <TABLE>0.1470588235294118 0.8529411764705883 0.47 0.53 0.875 0.12500000000000003 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>contact-lenses</FOR>
+      <TABLE>0.1954022988505747 0.5747126436781609 0.22988505747126434 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>spectacle-prescrip</FOR>
+      <TABLE>0.5 0.5 </TABLE>
+    </DEFINITION>
+    <DEFINITION>
+      <FOR>tear-prod-rate</FOR>
+      <GIVEN>contact-lenses</GIVEN>
+      <TABLE>0.8529411764705883 0.1470588235294118 0.22999999999999998 0.77 0.875 0.12500000000000003 </TABLE>
+    </DEFINITION>
+  </NETWORK>
+</BIF>

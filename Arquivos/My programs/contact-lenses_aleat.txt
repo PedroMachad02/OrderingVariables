@@ -1,0 +1,47 @@
+Ordem das variáveis iniciais: ['age', 'spectacle-prescrip', 'astigmatism', 'tear-prod-rate', 'contact-lenses']
+
+Ordem das variáveis aleatórias (iteração 1): ['tear-prod-rate', 'astigmatism', 'age', 'contact-lenses', 'spectacle-prescrip']
+Iteração 1 - Score: -100.67090227820762
+Estrutura: [('tear-prod-rate', 'contact-lenses'), ('astigmatism', 'contact-lenses')]
+------------------------------------------------------------------------------------------------
+Ordem das variáveis aleatórias (iteração 2): ['age', 'spectacle-prescrip', 'contact-lenses', 'astigmatism', 'tear-prod-rate']
+Iteração 2 - Score: -98.72503647411929
+Estrutura: [('contact-lenses', 'astigmatism'), ('contact-lenses', 'tear-prod-rate')]
+------------------------------------------------------------------------------------------------
+Ordem das variáveis aleatórias (iteração 3): ['tear-prod-rate', 'age', 'astigmatism', 'spectacle-prescrip', 'contact-lenses']
+Iteração 3 - Score: -100.67090227820762
+Estrutura: [('tear-prod-rate', 'contact-lenses'), ('astigmatism', 'contact-lenses')]
+------------------------------------------------------------------------------------------------
+Ordem das variáveis aleatórias (iteração 4): ['astigmatism', 'contact-lenses', 'spectacle-prescrip', 'tear-prod-rate', 'age']
+Iteração 4 - Score: -99.00802002578952
+Estrutura: [('astigmatism', 'contact-lenses'), ('contact-lenses', 'tear-prod-rate')]
+------------------------------------------------------------------------------------------------
+Ordem das variáveis aleatórias (iteração 5): ['tear-prod-rate', 'contact-lenses', 'age', 'astigmatism', 'spectacle-prescrip']
+Iteração 5 - Score: -99.0080200257895
+Estrutura: [('tear-prod-rate', 'contact-lenses'), ('contact-lenses', 'astigmatism')]
+------------------------------------------------------------------------------------------------
+Ordem das variáveis aleatórias (iteração 6): ['astigmatism', 'tear-prod-rate', 'age', 'spectacle-prescrip', 'contact-lenses']
+Iteração 6 - Score: -100.67090227820762
+Estrutura: [('astigmatism', 'contact-lenses'), ('tear-prod-rate', 'contact-lenses')]
+------------------------------------------------------------------------------------------------
+Ordem das variáveis aleatórias (iteração 7): ['age', 'tear-prod-rate', 'contact-lenses', 'spectacle-prescrip', 'astigmatism']
+Iteração 7 - Score: -99.0080200257895
+Estrutura: [('tear-prod-rate', 'contact-lenses'), ('contact-lenses', 'astigmatism')]
+------------------------------------------------------------------------------------------------
+Ordem das variáveis aleatórias (iteração 8): ['contact-lenses', 'tear-prod-rate', 'age', 'spectacle-prescrip', 'astigmatism']
+Iteração 8 - Score: -98.72503647411929
+Estrutura: [('contact-lenses', 'tear-prod-rate'), ('contact-lenses', 'astigmatism')]
+------------------------------------------------------------------------------------------------
+Ordem das variáveis aleatórias (iteração 9): ['contact-lenses', 'tear-prod-rate', 'spectacle-prescrip', 'age', 'astigmatism']
+Iteração 9 - Score: -98.72503647411929
+Estrutura: [('contact-lenses', 'tear-prod-rate'), ('contact-lenses', 'astigmatism')]
+------------------------------------------------------------------------------------------------
+Ordem das variáveis aleatórias (iteração 10): ['age', 'tear-prod-rate', 'contact-lenses', 'spectacle-prescrip', 'astigmatism']
+Iteração 10 - Score: -99.0080200257895
+Estrutura: [('tear-prod-rate', 'contact-lenses'), ('contact-lenses', 'astigmatism')]
+------------------------------------------------------------------------------------------------
+Melhor Ordem, Estrutura e Score:
+Ordem: ['age', 'spectacle-prescrip', 'contact-lenses', 'astigmatism', 'tear-prod-rate']
+Estrutura: [('contact-lenses', 'astigmatism'), ('contact-lenses', 'tear-prod-rate')]
+Score: -98.72503647411929
+Média dos Scores: -99.42198963601388

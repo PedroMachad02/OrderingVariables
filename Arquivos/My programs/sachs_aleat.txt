@@ -1,0 +1,48 @@
+Ordem das variáveis iniciais: ['Akt', 'Erk', 'Jnk', 'Mek', 'P38', 'PIP2', 'PIP3', 'PKA', 'PKC', 'Plcg', 'Raf']
+
+Ordem das variáveis aleatórias (iteração 1): ['PIP3', 'Raf', 'Plcg', 'Akt', 'P38', 'Erk', 'Mek', 'Jnk', 'PKC', 'PKA', 'PIP2']
+Iteração 1 - Score: -74046.70575565066
+Estrutura: [('PIP3', 'Plcg'), ('PIP3', 'PIP2'), ('Raf', 'Akt'), ('Raf', 'P38'), ('Raf', 'Erk'), ('Raf', 'Mek'), ('Raf', 'PKC'), ('Plcg', 'PIP2'), ('Akt', 'P38'), ('Akt', 'Erk'), ('Akt', 'Mek'), ('P38', 'Erk'), ('P38', 'Mek'), ('P38', 'Jnk'), ('P38', 'PKC'), ('Erk', 'Mek'), ('Erk', 'Jnk'), ('Erk', 'PKA'), ('Mek', 'Jnk'), ('Mek', 'PKC'), ('Mek', 'PKA'), ('Jnk', 'PKC'), ('Jnk', 'PKA'), ('PKC', 'PKA')]
+------------------------------------------------------------------------------------------------
+Ordem das variáveis aleatórias (iteração 2): ['Raf', 'Plcg', 'Akt', 'PIP3', 'P38', 'PKA', 'PIP2', 'PKC', 'Mek', 'Jnk', 'Erk']
+Iteração 2 - Score: -72598.7241712535
+Estrutura: [('Raf', 'Akt'), ('Raf', 'P38'), ('Raf', 'PKA'), ('Raf', 'PKC'), ('Raf', 'Mek'), ('Plcg', 'PIP3'), ('Plcg', 'PIP2'), ('Akt', 'P38'), ('Akt', 'PKA'), ('Akt', 'Mek'), ('Akt', 'Erk'), ('PIP3', 'PIP2'), ('P38', 'PKA'), ('P38', 'PKC'), ('PKA', 'PKC'), ('PKA', 'Mek'), ('PKA', 'Jnk'), ('PKA', 'Erk'), ('PKC', 'Mek'), ('PKC', 'Jnk'), ('Mek', 'Erk')]
+------------------------------------------------------------------------------------------------
+Ordem das variáveis aleatórias (iteração 3): ['Jnk', 'Raf', 'PIP2', 'Mek', 'PKC', 'Erk', 'PKA', 'Plcg', 'P38', 'PIP3', 'Akt']
+Iteração 3 - Score: -72899.33564323146
+Estrutura: [('Jnk', 'Raf'), ('Jnk', 'Mek'), ('Jnk', 'PKC'), ('Jnk', 'Erk'), ('Jnk', 'PKA'), ('Raf', 'Mek'), ('Raf', 'PKC'), ('Raf', 'Erk'), ('PIP2', 'Plcg'), ('PIP2', 'PIP3'), ('Mek', 'PKC'), ('Mek', 'Erk'), ('Mek', 'PKA'), ('PKC', 'Erk'), ('PKC', 'PKA'), ('PKC', 'P38'), ('Erk', 'PKA'), ('Erk', 'Akt'), ('PKA', 'P38'), ('PKA', 'Akt'), ('Plcg', 'PIP3')]
+------------------------------------------------------------------------------------------------
+Ordem das variáveis aleatórias (iteração 4): ['Mek', 'PKA', 'PKC', 'PIP3', 'Akt', 'Raf', 'Jnk', 'PIP2', 'P38', 'Erk', 'Plcg']
+Iteração 4 - Score: -72242.53150121614
+Estrutura: [('Mek', 'PKA'), ('Mek', 'PKC'), ('Mek', 'Akt'), ('Mek', 'Raf'), ('Mek', 'Erk'), ('PKA', 'PKC'), ('PKA', 'Akt'), ('PKA', 'Raf'), ('PKA', 'Jnk'), ('PKA', 'P38'), ('PKA', 'Erk'), ('PKC', 'Raf'), ('PKC', 'Jnk'), ('PKC', 'P38'), ('PIP3', 'PIP2'), ('PIP3', 'Plcg'), ('Akt', 'Erk'), ('PIP2', 'Plcg')]
+------------------------------------------------------------------------------------------------
+Ordem das variáveis aleatórias (iteração 5): ['Jnk', 'Mek', 'Akt', 'PIP2', 'Erk', 'Raf', 'PIP3', 'PKA', 'P38', 'PKC', 'Plcg']
+Iteração 5 - Score: -73221.98637947232
+Estrutura: [('Jnk', 'Mek'), ('Jnk', 'Erk'), ('Jnk', 'Raf'), ('Jnk', 'PKA'), ('Jnk', 'P38'), ('Jnk', 'PKC'), ('Mek', 'Akt'), ('Mek', 'Erk'), ('Mek', 'Raf'), ('Mek', 'PKA'), ('Mek', 'P38'), ('Mek', 'PKC'), ('Akt', 'Erk'), ('Akt', 'PKA'), ('PIP2', 'PIP3'), ('PIP2', 'Plcg'), ('Erk', 'Raf'), ('Erk', 'PKA'), ('Raf', 'PKC'), ('PIP3', 'Plcg'), ('PKA', 'P38'), ('PKA', 'PKC')]
+------------------------------------------------------------------------------------------------
+Ordem das variáveis aleatórias (iteração 6): ['P38', 'Jnk', 'Erk', 'Raf', 'PKC', 'Plcg', 'PIP2', 'PKA', 'Mek', 'Akt', 'PIP3']
+Iteração 6 - Score: -73241.44745939592
+Estrutura: [('P38', 'Jnk'), ('P38', 'Erk'), ('P38', 'Raf'), ('P38', 'PKC'), ('P38', 'PKA'), ('Jnk', 'Erk'), ('Jnk', 'Raf'), ('Jnk', 'PKC'), ('Jnk', 'PKA'), ('Erk', 'Raf'), ('Erk', 'Mek'), ('Erk', 'Akt'), ('Raf', 'PKC'), ('Raf', 'PKA'), ('Raf', 'Mek'), ('PKC', 'PKA'), ('PKC', 'Mek'), ('Plcg', 'PIP2'), ('Plcg', 'PIP3'), ('PIP2', 'PIP3'), ('PKA', 'Mek'), ('PKA', 'Akt')]
+------------------------------------------------------------------------------------------------
+Ordem das variáveis aleatórias (iteração 7): ['Erk', 'P38', 'Jnk', 'Plcg', 'PIP3', 'Raf', 'PKA', 'PKC', 'PIP2', 'Akt', 'Mek']
+Iteração 7 - Score: -72976.50048697085
+Estrutura: [('Erk', 'P38'), ('Erk', 'Jnk'), ('Erk', 'Raf'), ('Erk', 'PKA'), ('Erk', 'Akt'), ('Erk', 'Mek'), ('P38', 'Jnk'), ('P38', 'Raf'), ('P38', 'PKA'), ('P38', 'PKC'), ('Jnk', 'Raf'), ('Jnk', 'PKA'), ('Jnk', 'PKC'), ('Plcg', 'PIP3'), ('Plcg', 'PIP2'), ('PIP3', 'PIP2'), ('Raf', 'PKA'), ('Raf', 'PKC'), ('Raf', 'Mek'), ('PKA', 'PKC'), ('PKA', 'Akt'), ('PKA', 'Mek'), ('PKC', 'Mek')]
+------------------------------------------------------------------------------------------------
+Ordem das variáveis aleatórias (iteração 8): ['Plcg', 'PKC', 'PIP3', 'PIP2', 'Raf', 'Jnk', 'Erk', 'PKA', 'P38', 'Mek', 'Akt']
+Iteração 8 - Score: -72648.12338912714
+Estrutura: [('Plcg', 'PIP3'), ('Plcg', 'PIP2'), ('PKC', 'Raf'), ('PKC', 'Jnk'), ('PKC', 'Erk'), ('PKC', 'PKA'), ('PKC', 'P38'), ('PKC', 'Mek'), ('PIP3', 'PIP2'), ('Raf', 'Jnk'), ('Raf', 'Erk'), ('Raf', 'PKA'), ('Raf', 'Mek'), ('Jnk', 'Erk'), ('Jnk', 'PKA'), ('Erk', 'PKA'), ('Erk', 'Mek'), ('Erk', 'Akt'), ('PKA', 'P38'), ('PKA', 'Mek'), ('PKA', 'Akt')]
+------------------------------------------------------------------------------------------------
+Ordem das variáveis aleatórias (iteração 9): ['Raf', 'PKC', 'Plcg', 'Erk', 'PIP3', 'Jnk', 'Mek', 'Akt', 'P38', 'PKA', 'PIP2']
+Iteração 9 - Score: -73891.4425587661
+Estrutura: [('Raf', 'PKC'), ('Raf', 'Erk'), ('Raf', 'Jnk'), ('Raf', 'Mek'), ('PKC', 'Erk'), ('PKC', 'Jnk'), ('PKC', 'Mek'), ('PKC', 'P38'), ('PKC', 'PKA'), ('Plcg', 'PIP3'), ('Plcg', 'PIP2'), ('Erk', 'Jnk'), ('Erk', 'Mek'), ('Erk', 'Akt'), ('Erk', 'P38'), ('Erk', 'PKA'), ('PIP3', 'PIP2'), ('Jnk', 'Mek'), ('Jnk', 'P38'), ('Jnk', 'PKA'), ('Mek', 'Akt'), ('Mek', 'P38'), ('Mek', 'PKA')]
+------------------------------------------------------------------------------------------------
+Ordem das variáveis aleatórias (iteração 10): ['PKC', 'Jnk', 'Mek', 'Akt', 'Plcg', 'Raf', 'PIP2', 'Erk', 'PIP3', 'P38', 'PKA']
+Iteração 10 - Score: -73777.1640961733
+Estrutura: [('PKC', 'Jnk'), ('PKC', 'Mek'), ('PKC', 'Akt'), ('PKC', 'Raf'), ('PKC', 'P38'), ('PKC', 'PKA'), ('Jnk', 'Mek'), ('Jnk', 'Raf'), ('Jnk', 'Erk'), ('Jnk', 'P38'), ('Jnk', 'PKA'), ('Mek', 'Akt'), ('Mek', 'Raf'), ('Mek', 'Erk'), ('Mek', 'P38'), ('Mek', 'PKA'), ('Akt', 'Erk'), ('Plcg', 'PIP2'), ('Plcg', 'PIP3'), ('Raf', 'Erk'), ('PIP2', 'PIP3'), ('Erk', 'P38'), ('Erk', 'PKA')]
+------------------------------------------------------------------------------------------------
+Melhor Ordem, Estrutura e Score:
+Ordem: ['Mek', 'PKA', 'PKC', 'PIP3', 'Akt', 'Raf', 'Jnk', 'PIP2', 'P38', 'Erk', 'Plcg']
+Estrutura: [('Mek', 'PKA'), ('Mek', 'PKC'), ('Mek', 'Akt'), ('Mek', 'Raf'), ('Mek', 'Erk'), ('PKA', 'PKC'), ('PKA', 'Akt'), ('PKA', 'Raf'), ('PKA', 'Jnk'), ('PKA', 'P38'), ('PKA', 'Erk'), ('PKC', 'Raf'), ('PKC', 'Jnk'), ('PKC', 'P38'), ('PIP3', 'PIP2'), ('PIP3', 'Plcg'), ('Akt', 'Erk'), ('PIP2', 'Plcg')]
+Score: -72242.53150121614
+Média dos Scores: -73154.39614412576
+Tempo gasto: 9.009643316268921

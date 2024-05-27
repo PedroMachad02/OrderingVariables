@@ -1,0 +1,3 @@
+Melhor ordem gerada com a feature (spectacle-prescrip): ['spectacle-prescrip', 'contact-lenses', 'age', 'tear-prod-rate', 'astigmatism']
+Estrutura dessa ordem: [('contact-lenses', 'tear-prod-rate'), ('contact-lenses', 'astigmatism')]
+Score obtido dessa ordem: -98.72503647411926

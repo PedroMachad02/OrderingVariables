@@ -1,0 +1,3 @@
+Melhor ordem gerada com a feature (contact-lenses): ['contact-lenses', 'astigmatism', 'spectacle-prescrip', 'tear-prod-rate', 'age']
+Estrutura dessa ordem: [('contact-lenses', 'astigmatism'), ('contact-lenses', 'tear-prod-rate')]
+Score obtido dessa ordem: -98.72503647411928

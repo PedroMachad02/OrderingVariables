@@ -1,0 +1,3 @@
+Melhor ordem gerada com a feature (Raf): ['Raf', 'PKA', 'Mek', 'PKC', 'Akt', 'P38', 'Jnk', 'Erk', 'PIP3', 'PIP2', 'Plcg']
+Estrutura dessa ordem: [('Raf', 'PKA'), ('Raf', 'Mek'), ('Raf', 'PKC'), ('PKA', 'Mek'), ('PKA', 'PKC'), ('PKA', 'Akt'), ('PKA', 'P38'), ('PKA', 'Jnk'), ('PKA', 'Erk'), ('Mek', 'PKC'), ('Mek', 'Akt'), ('Mek', 'Erk'), ('PKC', 'P38'), ('PKC', 'Jnk'), ('Akt', 'Erk'), ('PIP3', 'PIP2'), ('PIP3', 'Plcg'), ('PIP2', 'Plcg')]
+Score obtido dessa ordem: -72270.10903889516

@@ -46,3 +46,4 @@ Estrutura: [('surgery', 'transfusion'), ('surgery', 'hospital'), ('surgery', 'in
 Score: -326414.34799248935
 Média dos Scores: -327502.17691625125
 Tempo gasto: 192.2716360092163
+Tempo gasto: 137.90892386436462

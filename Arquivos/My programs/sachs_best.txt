@@ -1,4 +1,4 @@
 Melhor ordem gerada com a feature (Mek): ['Mek', 'Akt', 'Erk', 'PKA', 'PKC', 'Raf', 'Jnk', 'P38', 'PIP2', 'PIP3', 'Plcg']
 Estrutura dessa ordem: [('Mek', 'Akt'), ('Mek', 'Erk'), ('Mek', 'PKA'), ('Mek', 'PKC'), ('Mek', 'Raf'), ('Akt', 'Erk'), ('Akt', 'PKA'), ('Erk', 'PKA'), ('PKA', 'PKC'), ('PKA', 'Raf'), ('PKA', 'Jnk'), ('PKA', 'P38'), ('PKC', 'Raf'), ('PKC', 'Jnk'), ('PKC', 'P38'), ('PIP2', 'PIP3'), ('PIP2', 'Plcg'), ('PIP3', 'Plcg')]
 Score obtido dessa ordem: -72258.09390597098
-Tempo total de execução do algoritmo: 131.44798111915588
+Tempo total de execução do algoritmo: 101.24349761009216

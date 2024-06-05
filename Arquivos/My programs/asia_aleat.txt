@@ -1,48 +1,48 @@
 Ordem das variáveis iniciais: ['asia', 'tub', 'smoke', 'lung', 'bronc', 'either', 'xray', 'dysp']
 
-Ordem das variáveis aleatórias (iteração 1): ['lung', 'tub', 'smoke', 'bronc', 'asia', 'xray', 'either', 'dysp']
-Iteração 1 - Score: -22274.236442578112
-Estrutura: [('lung', 'smoke'), ('lung', 'xray'), ('lung', 'either'), ('tub', 'xray'), ('tub', 'either'), ('smoke', 'bronc'), ('bronc', 'dysp'), ('either', 'dysp')]
+Ordem das variáveis aleatórias (iteração 1): ['xray', 'bronc', 'asia', 'smoke', 'either', 'dysp', 'lung', 'tub']
+Iteração 1 - Score: -22296.312688513062
+Estrutura: [('xray', 'bronc'), ('xray', 'smoke'), ('xray', 'either'), ('bronc', 'smoke'), ('bronc', 'dysp'), ('smoke', 'either'), ('smoke', 'lung'), ('either', 'dysp'), ('either', 'lung'), ('either', 'tub'), ('lung', 'tub')]
 ------------------------------------------------------------------------------------------------
-Ordem das variáveis aleatórias (iteração 2): ['dysp', 'smoke', 'bronc', 'either', 'tub', 'asia', 'xray', 'lung']
-Iteração 2 - Score: -22308.25152842269
-Estrutura: [('dysp', 'smoke'), ('dysp', 'bronc'), ('dysp', 'either'), ('smoke', 'bronc'), ('smoke', 'either'), ('smoke', 'tub'), ('bronc', 'either'), ('either', 'tub'), ('either', 'xray'), ('either', 'lung'), ('tub', 'lung')]
+Ordem das variáveis aleatórias (iteração 2): ['bronc', 'tub', 'lung', 'either', 'dysp', 'xray', 'smoke', 'asia']
+Iteração 2 - Score: -22276.36334233402
+Estrutura: [('bronc', 'lung'), ('bronc', 'dysp'), ('bronc', 'smoke'), ('tub', 'either'), ('lung', 'either'), ('lung', 'smoke'), ('either', 'dysp'), ('either', 'xray')]
 ------------------------------------------------------------------------------------------------
-Ordem das variáveis aleatórias (iteração 3): ['lung', 'dysp', 'either', 'bronc', 'tub', 'smoke', 'xray', 'asia']
-Iteração 3 - Score: -22286.058637064096
-Estrutura: [('lung', 'dysp'), ('lung', 'either'), ('lung', 'tub'), ('lung', 'smoke'), ('dysp', 'either'), ('dysp', 'bronc'), ('either', 'bronc'), ('either', 'tub'), ('either', 'xray'), ('bronc', 'smoke')]
+Ordem das variáveis aleatórias (iteração 3): ['either', 'xray', 'dysp', 'asia', 'lung', 'tub', 'smoke', 'bronc']
+Iteração 3 - Score: -22287.163069000948
+Estrutura: [('either', 'xray'), ('either', 'dysp'), ('either', 'lung'), ('either', 'tub'), ('either', 'bronc'), ('dysp', 'smoke'), ('dysp', 'bronc'), ('lung', 'tub'), ('lung', 'smoke'), ('smoke', 'bronc')]
 ------------------------------------------------------------------------------------------------
-Ordem das variáveis aleatórias (iteração 4): ['smoke', 'asia', 'xray', 'either', 'tub', 'lung', 'dysp', 'bronc']
-Iteração 4 - Score: -22308.72671489975
-Estrutura: [('smoke', 'xray'), ('smoke', 'either'), ('smoke', 'tub'), ('smoke', 'dysp'), ('smoke', 'bronc'), ('xray', 'either'), ('either', 'tub'), ('either', 'lung'), ('either', 'dysp'), ('either', 'bronc'), ('tub', 'lung'), ('dysp', 'bronc')]
+Ordem das variáveis aleatórias (iteração 4): ['lung', 'dysp', 'smoke', 'either', 'xray', 'bronc', 'asia', 'tub']
+Iteração 4 - Score: -22295.967506347675
+Estrutura: [('lung', 'dysp'), ('lung', 'smoke'), ('lung', 'either'), ('lung', 'tub'), ('dysp', 'smoke'), ('dysp', 'either'), ('dysp', 'bronc'), ('smoke', 'bronc'), ('either', 'xray'), ('either', 'bronc'), ('either', 'tub')]
 ------------------------------------------------------------------------------------------------
-Ordem das variáveis aleatórias (iteração 5): ['smoke', 'lung', 'either', 'tub', 'xray', 'asia', 'bronc', 'dysp']
-Iteração 5 - Score: -22273.291740089495
-Estrutura: [('smoke', 'lung'), ('smoke', 'bronc'), ('lung', 'either'), ('lung', 'tub'), ('either', 'tub'), ('either', 'xray'), ('either', 'dysp'), ('bronc', 'dysp')]
+Ordem das variáveis aleatórias (iteração 5): ['either', 'bronc', 'dysp', 'xray', 'lung', 'tub', 'smoke', 'asia']
+Iteração 5 - Score: -22277.77044647625
+Estrutura: [('either', 'bronc'), ('either', 'dysp'), ('either', 'xray'), ('either', 'lung'), ('either', 'tub'), ('bronc', 'dysp'), ('bronc', 'smoke'), ('lung', 'tub'), ('lung', 'smoke')]
 ------------------------------------------------------------------------------------------------
-Ordem das variáveis aleatórias (iteração 6): ['either', 'tub', 'lung', 'asia', 'dysp', 'xray', 'bronc', 'smoke']
-Iteração 6 - Score: -22277.302981653833
-Estrutura: [('either', 'tub'), ('either', 'lung'), ('either', 'dysp'), ('either', 'xray'), ('either', 'bronc'), ('tub', 'lung'), ('lung', 'smoke'), ('dysp', 'bronc'), ('bronc', 'smoke')]
+Ordem das variáveis aleatórias (iteração 6): ['smoke', 'either', 'xray', 'dysp', 'tub', 'asia', 'bronc', 'lung']
+Iteração 6 - Score: -22300.080072594108
+Estrutura: [('smoke', 'either'), ('smoke', 'dysp'), ('smoke', 'tub'), ('smoke', 'bronc'), ('either', 'xray'), ('either', 'dysp'), ('either', 'tub'), ('either', 'bronc'), ('either', 'lung'), ('dysp', 'bronc'), ('tub', 'lung')]
 ------------------------------------------------------------------------------------------------
-Ordem das variáveis aleatórias (iteração 7): ['lung', 'xray', 'either', 'tub', 'dysp', 'asia', 'smoke', 'bronc']
-Iteração 7 - Score: -22294.31182960194
-Estrutura: [('lung', 'xray'), ('lung', 'either'), ('lung', 'tub'), ('lung', 'smoke'), ('xray', 'either'), ('either', 'tub'), ('either', 'dysp'), ('either', 'bronc'), ('dysp', 'smoke'), ('dysp', 'bronc'), ('smoke', 'bronc')]
+Ordem das variáveis aleatórias (iteração 7): ['dysp', 'tub', 'asia', 'either', 'bronc', 'smoke', 'lung', 'xray']
+Iteração 7 - Score: -22290.94615473332
+Estrutura: [('dysp', 'tub'), ('dysp', 'either'), ('dysp', 'bronc'), ('tub', 'either'), ('tub', 'smoke'), ('tub', 'lung'), ('either', 'bronc'), ('either', 'smoke'), ('either', 'lung'), ('either', 'xray'), ('bronc', 'smoke')]
 ------------------------------------------------------------------------------------------------
-Ordem das variáveis aleatórias (iteração 8): ['smoke', 'dysp', 'xray', 'either', 'tub', 'bronc', 'asia', 'lung']
-Iteração 8 - Score: -22327.425055582447
-Estrutura: [('smoke', 'dysp'), ('smoke', 'xray'), ('smoke', 'either'), ('smoke', 'tub'), ('smoke', 'bronc'), ('dysp', 'xray'), ('dysp', 'either'), ('dysp', 'bronc'), ('xray', 'either'), ('either', 'tub'), ('either', 'bronc'), ('either', 'lung'), ('tub', 'lung')]
+Ordem das variáveis aleatórias (iteração 8): ['smoke', 'dysp', 'bronc', 'lung', 'either', 'tub', 'asia', 'xray']
+Iteração 8 - Score: -22322.688786880943
+Estrutura: [('smoke', 'dysp'), ('smoke', 'bronc'), ('smoke', 'lung'), ('dysp', 'bronc'), ('dysp', 'lung'), ('dysp', 'either'), ('bronc', 'lung'), ('bronc', 'either'), ('lung', 'either'), ('lung', 'tub'), ('either', 'tub'), ('either', 'xray')]
 ------------------------------------------------------------------------------------------------
-Ordem das variáveis aleatórias (iteração 9): ['smoke', 'xray', 'lung', 'either', 'asia', 'bronc', 'dysp', 'tub']
-Iteração 9 - Score: -22289.952672350846
-Estrutura: [('smoke', 'xray'), ('smoke', 'lung'), ('smoke', 'bronc'), ('xray', 'lung'), ('xray', 'either'), ('lung', 'either'), ('lung', 'tub'), ('either', 'dysp'), ('either', 'tub'), ('bronc', 'dysp')]
+Ordem das variáveis aleatórias (iteração 9): ['dysp', 'bronc', 'xray', 'asia', 'smoke', 'either', 'tub', 'lung']
+Iteração 9 - Score: -22350.52851669427
+Estrutura: [('dysp', 'bronc'), ('dysp', 'xray'), ('dysp', 'smoke'), ('dysp', 'either'), ('bronc', 'xray'), ('bronc', 'smoke'), ('bronc', 'either'), ('xray', 'smoke'), ('xray', 'either'), ('smoke', 'either'), ('smoke', 'tub'), ('either', 'tub'), ('either', 'lung'), ('tub', 'lung')]
 ------------------------------------------------------------------------------------------------
-Ordem das variáveis aleatórias (iteração 10): ['xray', 'dysp', 'asia', 'either', 'tub', 'bronc', 'smoke', 'lung']
-Iteração 10 - Score: -22292.94385298218
-Estrutura: [('xray', 'dysp'), ('xray', 'either'), ('dysp', 'either'), ('dysp', 'bronc'), ('either', 'tub'), ('either', 'bronc'), ('either', 'smoke'), ('either', 'lung'), ('tub', 'smoke'), ('tub', 'lung'), ('bronc', 'smoke')]
+Ordem das variáveis aleatórias (iteração 10): ['smoke', 'lung', 'dysp', 'tub', 'bronc', 'asia', 'either', 'xray']
+Iteração 10 - Score: -22295.266352526072
+Estrutura: [('smoke', 'lung'), ('smoke', 'dysp'), ('smoke', 'bronc'), ('lung', 'dysp'), ('lung', 'bronc'), ('lung', 'either'), ('dysp', 'tub'), ('dysp', 'bronc'), ('tub', 'bronc'), ('tub', 'either'), ('either', 'xray')]
 ------------------------------------------------------------------------------------------------
 Melhor Ordem, Estrutura e Score:
-Ordem: ['smoke', 'lung', 'either', 'tub', 'xray', 'asia', 'bronc', 'dysp']
-Estrutura: [('smoke', 'lung'), ('smoke', 'bronc'), ('lung', 'either'), ('lung', 'tub'), ('either', 'tub'), ('either', 'xray'), ('either', 'dysp'), ('bronc', 'dysp')]
-Score: -22273.291740089495
-Média dos Scores: -22293.25014552254
-Tempo gasto: 3.3324172496795654
+Ordem: ['bronc', 'tub', 'lung', 'either', 'dysp', 'xray', 'smoke', 'asia']
+Estrutura: [('bronc', 'lung'), ('bronc', 'dysp'), ('bronc', 'smoke'), ('tub', 'either'), ('lung', 'either'), ('lung', 'smoke'), ('either', 'dysp'), ('either', 'xray')]
+Score: -22276.36334233402
+Média dos Scores: -22299.308693610066
+Tempo gasto: 2.4190707206726074

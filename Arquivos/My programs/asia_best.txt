@@ -1,4 +1,4 @@
 Melhor ordem gerada com a feature (lung): ['lung', 'tub', 'smoke', 'bronc', 'either', 'xray', 'dysp', 'asia']
 Estrutura dessa ordem: [('lung', 'smoke'), ('lung', 'either'), ('tub', 'either'), ('smoke', 'bronc'), ('bronc', 'dysp'), ('either', 'xray'), ('either', 'dysp')]
 Score obtido dessa ordem: -22269.221900624892
-Tempo total de execução do algoritmo: 57.83917474746704
+Tempo total de execução do algoritmo: 57.11868762969971

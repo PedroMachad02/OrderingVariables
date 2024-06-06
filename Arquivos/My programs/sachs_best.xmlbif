@@ -4,79 +4,79 @@
     <NAME>UNTITLED</NAME>
     <VARIABLE TYPE="nature">
       <NAME>Akt</NAME>
+      <OUTCOME>0</OUTCOME>
       <OUTCOME>1</OUTCOME>
       <OUTCOME>2</OUTCOME>
-      <OUTCOME>3</OUTCOME>
       <PROPERTY>weight = None</PROPERTY>
     </VARIABLE>
     <VARIABLE TYPE="nature">
       <NAME>Erk</NAME>
+      <OUTCOME>0</OUTCOME>
       <OUTCOME>1</OUTCOME>
       <OUTCOME>2</OUTCOME>
-      <OUTCOME>3</OUTCOME>
       <PROPERTY>weight = None</PROPERTY>
     </VARIABLE>
     <VARIABLE TYPE="nature">
       <NAME>Jnk</NAME>
+      <OUTCOME>0</OUTCOME>
       <OUTCOME>1</OUTCOME>
       <OUTCOME>2</OUTCOME>
-      <OUTCOME>3</OUTCOME>
       <PROPERTY>weight = None</PROPERTY>
     </VARIABLE>
     <VARIABLE TYPE="nature">
       <NAME>Mek</NAME>
+      <OUTCOME>0</OUTCOME>
       <OUTCOME>1</OUTCOME>
       <OUTCOME>2</OUTCOME>
-      <OUTCOME>3</OUTCOME>
       <PROPERTY>weight = None</PROPERTY>
     </VARIABLE>
     <VARIABLE TYPE="nature">
       <NAME>P38</NAME>
+      <OUTCOME>0</OUTCOME>
       <OUTCOME>1</OUTCOME>
       <OUTCOME>2</OUTCOME>
-      <OUTCOME>3</OUTCOME>
       <PROPERTY>weight = None</PROPERTY>
     </VARIABLE>
     <VARIABLE TYPE="nature">
       <NAME>PIP2</NAME>
+      <OUTCOME>0</OUTCOME>
       <OUTCOME>1</OUTCOME>
       <OUTCOME>2</OUTCOME>
-      <OUTCOME>3</OUTCOME>
       <PROPERTY>weight = None</PROPERTY>
     </VARIABLE>
     <VARIABLE TYPE="nature">
       <NAME>PIP3</NAME>
+      <OUTCOME>0</OUTCOME>
       <OUTCOME>1</OUTCOME>
       <OUTCOME>2</OUTCOME>
-      <OUTCOME>3</OUTCOME>
       <PROPERTY>weight = None</PROPERTY>
     </VARIABLE>
     <VARIABLE TYPE="nature">
       <NAME>PKA</NAME>
+      <OUTCOME>0</OUTCOME>
       <OUTCOME>1</OUTCOME>
       <OUTCOME>2</OUTCOME>
-      <OUTCOME>3</OUTCOME>
       <PROPERTY>weight = None</PROPERTY>
     </VARIABLE>
     <VARIABLE TYPE="nature">
       <NAME>PKC</NAME>
+      <OUTCOME>0</OUTCOME>
       <OUTCOME>1</OUTCOME>
       <OUTCOME>2</OUTCOME>
-      <OUTCOME>3</OUTCOME>
       <PROPERTY>weight = None</PROPERTY>
     </VARIABLE>
     <VARIABLE TYPE="nature">
       <NAME>Plcg</NAME>
+      <OUTCOME>0</OUTCOME>
       <OUTCOME>1</OUTCOME>
       <OUTCOME>2</OUTCOME>
-      <OUTCOME>3</OUTCOME>
       <PROPERTY>weight = None</PROPERTY>
     </VARIABLE>
     <VARIABLE TYPE="nature">
       <NAME>Raf</NAME>
+      <OUTCOME>0</OUTCOME>
       <OUTCOME>1</OUTCOME>
       <OUTCOME>2</OUTCOME>
-      <OUTCOME>3</OUTCOME>
       <PROPERTY>weight = None</PROPERTY>
     </VARIABLE>
     <DEFINITION>

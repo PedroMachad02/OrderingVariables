@@ -1,3 +1,4 @@
 Melhor ordem gerada com a feature (tub): ['tub', 'either', 'xray', 'dysp', 'asia', 'bronc', 'smoke', 'lung']
 Estrutura dessa ordem: [('tub', 'either'), ('tub', 'smoke'), ('tub', 'lung'), ('either', 'xray'), ('either', 'dysp'), ('either', 'bronc'), ('either', 'smoke'), ('either', 'lung'), ('dysp', 'bronc'), ('bronc', 'smoke')]
 Score obtido dessa ordem: -22281.743215127586
+Tempo gasto: 1.9648406505584717
